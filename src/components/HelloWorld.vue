@@ -92,6 +92,9 @@
     <div>
       npm run release 3
     </div>
+    <div>
+      npm run release 4
+    </div>
   </div>
 </template>
 
