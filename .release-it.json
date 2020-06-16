@@ -3,6 +3,6 @@
     "commitMessage": "chore: release-test v${version}"
   },
   "github": {
-    "release": true
+    "release": false
   }
 }
